@@ -16,6 +16,7 @@
 
 <h3 align="center">Authentication using MERN-Stack</h3>
 
+  <img src="./ss/js-gif.gif" width="100%">
 
 </div>
 
