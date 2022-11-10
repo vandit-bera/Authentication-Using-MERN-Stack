@@ -45,7 +45,7 @@ In this Project I've create a Authentication Application Using MERN-Stack. First
 ![2](./ss/2.png)
 ![3](./ss/3.png)
 ![4](./ss/4.png)
-### If you want to change your databse so, you can go to this path 'config -> keys.js' and putup your databse connection_URL.
+### If you want to change your databse so, you can go to this path 'config -> keys.js' and putup your databse connection_URL and secretOrKey you can give any 16 no. of random character string.
 ![5](./ss/5.png)
 <br>
 
