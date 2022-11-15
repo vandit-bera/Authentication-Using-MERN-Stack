@@ -26,13 +26,13 @@
 
 <br>
 
-## About The Project
+## ➡️ About The Project
 
 In this Project I've create a Authentication Application Using MERN-Stack. First User is in Home page end I've create two option for Login & Registration After Registration user is go to the login and see the Dashboard.
 
 <br>
 
-## How to Start
+## ➡️ How to Start
 
 ### Step 1: First Download this project.
 ### Step 2: Open Terminal and write 'npm install' command to install the node_modules of the back-end part.
@@ -52,7 +52,7 @@ In this Project I've create a Authentication Application Using MERN-Stack. First
 
 
 
-## Built With
+## ➡️ Built With
 
 **Using Technologies**
 
@@ -65,14 +65,14 @@ In this Project I've create a Authentication Application Using MERN-Stack. First
 <br>
 
 
-## Learnt
+## ➡️ Learnt
 In This project I learnt about MERN-Stack Application for Authentication.
 - ReactJS
 - MongoDB
 
 <br>
 
-## Time
+## ➡️ Time
 
 For this project I took around `3 to 4 hours` to complete it.
 
