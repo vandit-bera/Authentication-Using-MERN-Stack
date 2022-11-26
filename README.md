@@ -72,7 +72,7 @@ In This project I learnt about MERN-Stack Application for Authentication.
 
 <br>
 
-## ➡️ Time
+## ⏱️ Time
 
 For this project I took around `3 to 4 hours` to complete it.
 
