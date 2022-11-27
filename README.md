@@ -52,7 +52,7 @@ In this Project I've create a Authentication Application Using MERN-Stack. First
 
 
 
-## ➡️ Built With
+## ➿ Built With
 
 **Using Technologies**
 
