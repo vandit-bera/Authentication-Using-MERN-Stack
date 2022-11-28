@@ -32,7 +32,7 @@ In this Project I've create a Authentication Application Using MERN-Stack. First
 
 <br>
 
-## ➡️ How to Start
+## ⚪ How to Start
 
 ### Step 1: First Download this project.
 ### Step 2: Open Terminal and write 'npm install' command to install the node_modules of the back-end part.
