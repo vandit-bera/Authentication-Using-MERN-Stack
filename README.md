@@ -65,7 +65,7 @@ In this Project I've create a Authentication Application Using MERN-Stack. First
 <br>
 
 
-## ⭐ Learnt
+## 🌈 Learnt
 In This project I learnt about MERN-Stack Application for Authentication.
 - ReactJS
 - MongoDB
