@@ -81,7 +81,7 @@ For this project I took around `3 to 4 hours` to complete it.
 
 <!-- CONTACT -->
 
-# For any query? ping me ➿!
+# For any query? ping me !
 
 - **Name 👨‍💻:** [Vandit Bera](https://github.com/vandit-bera)
 - **Email 📧:** [vanditbera@gmail.com](mailto:vanditbera@gmail.com)
