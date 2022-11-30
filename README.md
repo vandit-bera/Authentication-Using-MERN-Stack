@@ -20,8 +20,6 @@
 
 </div>
 
-
-
 <!-- ABOUT THE PROJECT -->
 
 <br>
@@ -50,8 +48,6 @@ In this Project I've create a Authentication Application Using MERN-Stack. First
 ![5](./ss/5.png)
 <br>
 
-
-
 ## ➿ Built With
 
 **Using Technologies**
@@ -61,9 +57,7 @@ In this Project I've create a Authentication Application Using MERN-Stack. First
 3. mongoose
 4. expressJS
 
-
 <br>
-
 
 ## 🌈 Learnt
 In This project I learnt about MERN-Stack Application for Authentication.
@@ -75,7 +69,6 @@ In This project I learnt about MERN-Stack Application for Authentication.
 ## ⏱️ Time
 
 For this project I took around `3 to 4 hours` to complete it.
-
 
 <br>
 
@@ -109,4 +102,3 @@ Project Link: [GitHub](https://github.com/vandit-bera/Authentication-Using-MERN-
 
 [hashnode-shield]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 [hashnode-url]: https://vandit-bera.hashnode.dev/
-
