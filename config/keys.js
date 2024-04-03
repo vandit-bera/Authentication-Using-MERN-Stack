@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "MongoDB_URL",
+  mongoURI: "mongodb+srv://<uname>:<psw>@auth.hoog3tu.mongodb.net/",
   secretOrKey: "jfjkdjrhfybshrfg",
 };
